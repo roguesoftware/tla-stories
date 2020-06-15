@@ -1,0 +1,42 @@
+[
+    {
+        "id": "50977864-11bf-40fc-b75a-4df68840618a",
+        "location_id": "a4db51b1-731b-4c1b-a8d5-5da1a4980d02",
+        "author": {"id": "190f3c8a-6b2b-47f1-a018-1fd09b29be0e", "name": "Nick"},
+        "title": "Mission San Francisco de Asís",
+        "story": "Mission San Francisco de Asís, or Mission Dolores, is the oldest surviving structure in San Francisco and the sixth religious settlement established as part of the California chain of missions. The Mission was founded on October 9, 1776, by Francisco Palóu, a companion of Junípero Serra, and Co-founder Fray Pedro Benito Cambón, both members of the de Anza Expedition, which had been charged with bringing Spanish settlers to Alta (upper) California and with evangelizing the local Natives, the Ohlone. Some of the Mission's buildings have been turned into businesses, including a print shop and several saloons.\n\nThe settlement was named for St. Francis of Assisi, the founder of the Franciscan Order, but was also commonly known as \"Mission Dolores\" owing to the presence of a nearby creek named Arroyo de Nuestra Señora de los Dolores, meaning \"Our Lady of Sorrows Creek.\" During the expedition of Juan Bautista de Anza, this site was identified by Pedro Font as the most suitable site for a mission in the San Francisco area.\n\nThe present Mission church, near what is now the intersection of Dolores and 16th Streets, was dedicated in 1791. At the time of dedication, a mural painted by native labor adorned the focal wall of the chapel. The Mission was constructed of adobe and was part of a complex of buildings used for housing, agricultural, and manufacturing enterprises (see architecture of the California missions). Though most of the Mission complex, including the quadrangle and Convento, has either been altered or demolished outright during the intervening years, the façade of the Mission chapel has remained relatively unchanged since its construction in 1782–1791.",
+        "votes": {"up": 2, "down": 0, "net": 2}
+    },
+    {
+        "id": "f86cf024-79af-4f57-bb44-492ee3e67bc0",
+        "location_id": "f0045086-a57f-4fc2-ba4d-0db40b82d9a0",
+        "author": {"id": "2273b105-ad44-490c-9db5-4fcebd81523b", "name": "Tim"},
+        "title": "The Old Ship Saloon",
+        "story": "When California struck gold, some 300,000 fortune hunters stormed the state, many travelling by sea and abandoning their boats. The Old Ship Saloon is built on the remains of The Arkansas, which ran aground on Alcatraz in 1849. Two years after being towed in, an enterprising Englishman cut a hole in the hull and began serving spirits, and it's operated as a saloon, brothel, rooming house, or shanghai den ever since. The term \"shanghaied\" originates here: unlucky patrons downed drug-spiked liquor and woke up on a ship at sea. Today, this locals' hangout is fairly innocuous, but the Pisco Punch still packs a wallop.",
+        "votes": {"up": 0, "down": 0, "net": 0}
+    },
+    {
+        "id": "1032a562-9697-472b-bafa-33ee27bdd662",
+        "location_id": "26449cbc-19c9-4c67-bff5-9f1c27ad3aa1",
+        "author": {"id": "2273b105-ad44-490c-9db5-4fcebd81523b", "name": "Tim"},
+        "title": "Cable Car Museum",
+        "story": "The Cable Car Museum is a free museum in the Nob Hill neighborhood of San Francisco, California. Located at 1201 Mason Street, it contains historical and explanatory exhibits on the San Francisco cable car system, which can itself be regarded as a working museum.\n\nEstablished in 1974, the museum is part of the complex that also houses the cable car power house, which drives the cables, and the car depot (\"barn\"). The car depot is not open to the public, but two overlook galleries allow the visitor to view the power house, and to descend below the junction of Washington and Mason streets in order to view the large cavern where the haulage cables are routed via large sheaves out to the street.",
+        "votes": {"up": 1, "down": 1, "net": 0}
+    },
+    {
+        "id": "1032a562-9697-472b-bafa-33ee27bdd663",
+        "location_id": "4d633138-97ba-4a37-be99-309cd81cfded",
+        "author": {"id": "516f8474-cb23-43e2-807b-83f47a6979b0", "name": "Brian"},
+        "title": "HP Garage",
+        "story": "Often referred to as the birthplace of Silicon Valley, the HP Garage stands today as the enduring symbol of innovation and the entrepreneurial spirit. It was in this humble 12x18-foot building that college friends Bill Hewlett and Dave Packard first pursued the dream of a company of their own. Guided by an unwavering desire to develop innovative and useful products, the two men went on to blaze a trail at the forefront of the electronics revolution.",
+        "votes": {"up": 0, "down": 0, "net": 0}
+    },
+    {
+        "id": "7bfdace0-5b01-4a78-9e37-f588449e3eb9",
+        "location_id": "b74636b0-ee0e-483e-a27e-42cc8a20c5c1",
+        "author": {"id": "516f8474-cb23-43e2-807b-83f47a6979b0", "name": "Brian"},
+        "title": "Building 25 Memorial",
+        "story": "Building 25\"s foremost contribution to computing history was the invention of the \"flying head\" disc drive, that allowed for online processing. What a beautiful memorial in the parking lot of a home improvement store.",
+        "votes": {"up": 0, "down": 0, "net": 0}
+    }
+]
